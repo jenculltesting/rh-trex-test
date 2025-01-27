@@ -92,7 +92,7 @@ parameters:
 - name: ENABLE_HTTPS
   displayName: Enable HTTPS
   description: Enable HTTPS rather than HTTP
-  value: "true"
+  value: "false"
 
 - name: API_SERVER_BINDADDRESS
   displayName: API Server Bindaddress
