@@ -7,7 +7,7 @@ require (
 	github.com/auth0/go-jwt-middleware v0.0.0-20190805220309-36081240882b
 	github.com/bxcodec/faker/v3 v3.2.0
 	github.com/docker/go-healthcheck v0.1.0
-	github.com/getsentry/sentry-go v0.20.0
+	github.com/getsentry/sentry-go v0.31.1
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-gormigrate/gormigrate/v2 v2.0.0
 	github.com/golang-jwt/jwt/v4 v4.5.1
@@ -65,10 +65,11 @@ require (
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966 // indirect
 	github.com/smartystreets/goconvey v1.8.1 // indirect
+	github.com/urfave/negroni v1.0.0 // indirect
 	golang.org/x/crypto v0.20.0 // indirect
 	golang.org/x/net v0.21.0 // indirect
 	golang.org/x/oauth2 v0.15.0 // indirect
-	golang.org/x/sys v0.17.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
