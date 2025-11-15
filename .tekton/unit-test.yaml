@@ -96,7 +96,7 @@ spec:
             )
             echo -n "$TEST_OUTPUT" | tee $(results.TEST_OUTPUT.path)
         sidecars:
-          - image: docker.io/library/postgres:17.4
+          - image: docker.io/library/postgres:17.7
             name: database-test
             env:
             - name: PGDATA
